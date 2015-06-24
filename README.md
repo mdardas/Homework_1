@@ -2,8 +2,8 @@
 cd
 cd ECE 264
 cd solutions
-got clone https://mdardas:Gladiator_7@https://github.com/mdardas/Homework_1.git
+got clone https://@https://github.com/mdardas/Homework_1.git
 
-git add PA01
-git commit -m "start homework"
-git push
+ls
+cd Homework_1/
+ls README.md
